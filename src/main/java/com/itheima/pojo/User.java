@@ -10,6 +10,7 @@ public class User {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+
     }
 
     public String getName() {
